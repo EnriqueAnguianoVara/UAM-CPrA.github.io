@@ -1,0 +1,10 @@
+.navbar {
+    transition: top 0.9s;
+}
+
+.navbar-fixed {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    transition: top 0.3s;
+  }
